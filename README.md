@@ -77,6 +77,8 @@
 
 [![크리에이티브 커먼즈 라이선스](https://i.creativecommons.org/l/by-nc/2.0/kr/88x31.png)](http://creativecommons.org/licenses/by-nc/2.0/kr/)  
 이 저작물은 [크리에이티브 커먼즈 저작자표시-비영리 2.0 대한민국 라이선스](http://creativecommons.org/licenses/by-nc/2.0/kr/)에 따라 이용할 수 있습니다.
+![Uploading image.png…]()
+
 
 # 면접 질문 답변 작성(이재용)
 ## CS 관련 지식
