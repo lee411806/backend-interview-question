@@ -77,7 +77,8 @@
 
 [![크리에이티브 커먼즈 라이선스](https://i.creativecommons.org/l/by-nc/2.0/kr/88x31.png)](http://creativecommons.org/licenses/by-nc/2.0/kr/)  
 이 저작물은 [크리에이티브 커먼즈 저작자표시-비영리 2.0 대한민국 라이선스](http://creativecommons.org/licenses/by-nc/2.0/kr/)에 따라 이용할 수 있습니다.
-![Uploading image.png…]()
+![Uploading image.png…](![image](https://github.com/lee411806/backend-interview-question/assets/132039579/1653f1ea-a590-4978-ac49-b8e6d2f11aab)
+)
 
 
 # 면접 질문 답변 작성(이재용)
