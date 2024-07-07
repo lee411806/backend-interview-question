@@ -80,7 +80,6 @@
 ![image](https://github.com/lee411806/backend-interview-question/assets/132039579/a47a39de-9f3e-401d-b2e2-0fedb032cc8c)
 
 
-
 ## CS 관련 지식
 
 ### 네트워크
@@ -863,7 +862,10 @@
   </details>
 
 
-#### Spring
+#### Spring 
+
+"이 저작물은 원본에서 일부 내용이 수정되었습니다."
+수정된 내용 -> 질문에 대한 답변내용 블로그 링크 (블로그는 비영리 블로그)
 
 <details>
   <summary>Spring DI/IoC는 어떻게 동작하나요?</summary>
@@ -893,6 +895,7 @@
   <p>싱글톤은 기본 스코프로 스프링 컨테이너의 시작과 종료까지 유지되는 가장 넓은 범위의 스코프입니다.</p>
   <p>프로토타입은 빈의 생성과 의존관계 주입까지만 관여하고 더는 관리하지 않는 매우 짧은 범위의 스코프입니다.</p>
   <p>request는 웹 요청이 들어오고 나갈때까지 유지하는 스코프, session은 웹 세션이 생성, 종료할때까지, application은 웹 서블릿 컨텍스트와 같은 범위로 유지하는 스코프입니다.</p>
+<p>https://velog.io/@lee41180612/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88Bean%EC%9D%98-%EC%8A%A4%EC%BD%94%ED%94%84Scope</p>
 </details>
 
 <details>
